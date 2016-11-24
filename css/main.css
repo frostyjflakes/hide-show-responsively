@@ -34,7 +34,7 @@ img:nth-child(4) {
 
   img {
     display: none;
-    width: 49%
+    width: 49%;
   }
 
   img:nth-child(odd) {
