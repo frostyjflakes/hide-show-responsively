@@ -47,7 +47,7 @@ img:nth-child(4) {
 
   img {
     display: inline-block;
-    width: 33%;
+    width: 32%;
   }
 
   img:nth-child(even) {
@@ -64,7 +64,7 @@ img:nth-child(4) {
 
   img {
     display: inline-block;
-    width: 24%;
+    width: 25%;
   }
 
   img:first-child {
@@ -78,7 +78,7 @@ img:nth-child(4) {
   img,
   img:first-child {
     display: inline-block;
-    width: 24%;
+    width: 25%;
   }
 
 }
