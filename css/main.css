@@ -34,6 +34,7 @@ img:nth-child(4) {
 
   img {
     display: none;
+    width: 49%
   }
 
   img:nth-child(odd) {
@@ -46,7 +47,7 @@ img:nth-child(4) {
 
   img {
     display: inline-block;
-    width: 34%;
+    width: 32%;
   }
 
   img:nth-child(even) {
@@ -63,7 +64,7 @@ img:nth-child(4) {
 
   img {
     display: inline-block;
-    width: 26%;
+    width: 24%;
   }
 
   img:first-child {
